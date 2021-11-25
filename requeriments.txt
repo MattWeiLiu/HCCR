@@ -1,0 +1,11 @@
+opencv-python
+matplotlib
+tqdm
+torch
+torchvision
+Polygon3
+scikit-image
+pyclipper
+sklearn
+tensorboard
+colorlog
